@@ -1,4 +1,4 @@
-# Resistor-Identifier
+# Resistor-Identifier (See Resistor_Identifier.pptx for more introduction and video demo)
 The main purpose of this project is to construct an automated resistor identifier. The resistors are locating with a Haar Cascade Classifier. The classifier is trainned on 1000 positive images and 1500 negative images. Then the color is read through thresholding certain color ranges in HSV color space.
 
 ## Hareware setup
