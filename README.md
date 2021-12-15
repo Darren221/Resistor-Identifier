@@ -22,7 +22,7 @@ Note that the index in ```Videocapture(0)``` may need to be change according to 
 ## Work division
 | Studen ID | Name   | Work                          |
 | --------- | ------ | ----------------------------- |
-| B04502031 | 施力維 | Find resistor's position, ppt |
-| B06901188 | 李宗倫 (Zong-Lun Li) | Find resistor's position, ppt |
-| B05502048 | 鄭婷予 | Read resistor's color, ppt |
-| B07502022 | 梁皓瑋 | Read resistor's color, ppt |
+| B04502031 | 施力維 | Resistor detection, ppt |
+| B06901188 | 李宗倫 (Zong-Lun Li) | Resistor detection, ppt |
+| B05502048 | 鄭婷予 | Color identification, ppt |
+| B07502022 | 梁皓瑋 | Color identification, ppt |
