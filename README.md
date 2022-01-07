@@ -16,7 +16,7 @@ Run the program with the following command:
 ``` bash
 python main.py
 ```
-Note that the index in ```Videocapture(0)``` may need to be change according to different conputer and camera.
+Note that the index in ```Videocapture(0)``` may need to be changed according to different computer and camera.
 
 
 
